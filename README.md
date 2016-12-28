@@ -4,16 +4,16 @@
 
 输入触发词 v2，获取 v2ex 当日 10 条最热门的帖子：
 
-![](http://ww4.sinaimg.cn/large/b10d1ea5jw1fa4b35ky7pj20vy0r6tm7.jpg)
+<img src="http://ww3.sinaimg.cn/large/b10d1ea5jw1fb6qwodcr7j20xq0wk7b6.jpg" height="200" width="400"/>
 
 ### workflow for Gank
 
 输入触发词 gt，获取 Gank.io 当日开发者干货：
 
-![](http://ww1.sinaimg.cn/large/b10d1ea5jw1fa3ehbrb3bj20w80r6gua.jpg)
+<img src="http://ww4.sinaimg.cn/large/b10d1ea5jw1fb6qxuai59j20xq0xothu.jpg" height="200" width="400"/>
 
 ### workflow for YouDao
 
 输入触发词 yd，并且输入你想查询的单词，即可获取英文翻译：
 
-![](http://ww1.sinaimg.cn/large/b10d1ea5jw1fa3ehw10kaj20w60gy0wu.jpg)
+<img src="http://ww3.sinaimg.cn/large/b10d1ea5jw1fb6qyafs43j20xq0gcgne.jpg" height="200" width="400"/>
